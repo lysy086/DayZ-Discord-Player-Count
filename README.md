@@ -16,13 +16,14 @@ This Python script demonstrates how to create a Discord bot using the discord.py
 1. Install Python 3.x from the [official website](https://www.python.org/).
 2. Install the required libraries by running the following command:
 
-   pip install discord requests
+   `"pip install discord requests"`
 
 3. Create a Discord bot and obtain its token. Refer to the [Discord Developer Portal](https://discord.com/developers/applications) for more information.
 4. Replace `"TOKEN"` in the code with your bot's token.
-5. Run the script using Python:
+5. Replace `"SERVER-ID"`
+6. Run the script using Python:
 
-  python bot.py
+  `"python bot.py"`
 
 
 ## Description
